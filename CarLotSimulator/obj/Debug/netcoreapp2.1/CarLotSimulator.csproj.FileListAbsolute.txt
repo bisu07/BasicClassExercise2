@@ -1,0 +1,13 @@
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.deps.json
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\bin\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.dll
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.pdb
+C:\Users\bishal\Desktop\repos\BasicClassExercise2\CarLotSimulator\CarLotSimulatorApp\CarLotSimulator\obj\Debug\netcoreapp2.1\CarLotSimulator.genruntimeconfig.cache
